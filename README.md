@@ -98,14 +98,14 @@ CafeNoor/
 ---
 
 ## 📸 Screenshots
->
->
-
 * Main Categories Screen
+  > ![1000314484](https://github.com/user-attachments/assets/9a92781d-563e-4341-a685-52db7d6ffc54)
 * Coffee Detail Page
+  > ![1000314486](https://github.com/user-attachments/assets/aad46d45-4ffb-4966-b05a-33beafdcd7a7)
 * Cart Overview
+  >![1000314487](https://github.com/user-attachments/assets/d495b07c-384c-4e52-bdac-3cd0dcdbbe5b)
 * App Demo : 
-
+  >https://drive.google.com/drive/folders/1U6y6Y4XNOt9aVjHD0bwfujTKYXBHpd61?usp=share_link
 ---
 
 ## 📈 Future Enhancements
@@ -130,9 +130,3 @@ Want to contribute? Follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-```
