@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528034145192",
+    "project_id": "cafenoor0038",
+    "storage_bucket": "cafenoor0038.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528034145192:android:5d407f07d62d592a8a339d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCapKuTMc_aAn8_JoMd0nBgLTkMBCHbYX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
